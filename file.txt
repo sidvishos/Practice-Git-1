@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capital of France
+Another Capital
+Another one Capital
+Kiev is the mother of russian's cities
